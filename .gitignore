@@ -1,0 +1,11 @@
+# .gitignore
+
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# dotenv environment file
+.env
